@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 左氏博議
-#+DATE: 2015-09-23 09:39:38
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:14:01.805923
+#+PROPERTY: ID KR1e0041
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0041_WYG_008-1a>¶
 欽定四庫全書¶
 　左氏博議卷八¶
@@ -470,4 +472,3 @@
 今風俗尚能救政事之疵而政事反不能因風俗之美¶
 是風俗不負魯而魯其負風俗也悲夫¶
 　左氏博議卷八¶
-
